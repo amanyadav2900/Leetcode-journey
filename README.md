@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/amanyadav2900/Leetcode-journey/tree/master/1004-max-consecutive-ones-iii) |
+| [1314-matrix-block-sum](https://github.com/amanyadav2900/Leetcode-journey/tree/master/1314-matrix-block-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amanyadav2900/Leetcode-journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/amanyadav2900/Leetcode-journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3477-fruits-into-baskets-ii](https://github.com/amanyadav2900/Leetcode-journey/tree/master/3477-fruits-into-baskets-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/amanyadav2900/Leetcode-journey/tree/master/1004-max-consecutive-ones-iii) |
+| [1314-matrix-block-sum](https://github.com/amanyadav2900/Leetcode-journey/tree/master/1314-matrix-block-sum) |
 ## Segment Tree
 |  |
 | ------- |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0992-subarrays-with-k-different-integers) |
+## Matrix
+|  |
+| ------- |
+| [1314-matrix-block-sum](https://github.com/amanyadav2900/Leetcode-journey/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
