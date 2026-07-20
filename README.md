@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0042-trapping-rain-water) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0992-subarrays-with-k-different-integers) |
