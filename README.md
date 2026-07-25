@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0713-subarray-product-less-than-k) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
