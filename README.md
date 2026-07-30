@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amanyadav2900/Leetcode-journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3477-fruits-into-baskets-ii](https://github.com/amanyadav2900/Leetcode-journey/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Search
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0567-permutation-in-string) |
@@ -182,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
