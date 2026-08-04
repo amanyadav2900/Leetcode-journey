@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0560-subarray-sum-equals-k](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0904-fruit-into-baskets) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0567-permutation-in-string) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0067-add-binary) |
