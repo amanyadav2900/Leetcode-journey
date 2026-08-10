@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0125-valid-palindrome) |
