@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0912-sort-an-array) |
 ## Greedy
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0904-fruit-into-baskets) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0680-valid-palindrome-ii) |
