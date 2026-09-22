@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0700-search-in-a-binary-search-tree) |
 ## Manacher
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0700-search-in-a-binary-search-tree) |
 ## Merge Sort
 |  |
 | ------- |
