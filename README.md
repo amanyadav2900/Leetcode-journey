@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0912-sort-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/amanyadav2900/Leetcode-journey/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/amanyadav2900/Leetcode-journey/tree/master/1046-last-stone-weight) |
 | [1314-matrix-block-sum](https://github.com/amanyadav2900/Leetcode-journey/tree/master/1314-matrix-block-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amanyadav2900/Leetcode-journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/amanyadav2900/Leetcode-journey/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/amanyadav2900/Leetcode-journey/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/amanyadav2900/Leetcode-journey/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
 |  |
 | ------- |
